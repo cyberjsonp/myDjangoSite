@@ -1,0 +1,2 @@
+# myDjangoSite
+mamadWebSite
